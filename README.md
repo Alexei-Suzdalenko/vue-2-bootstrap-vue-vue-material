@@ -1,24 +1,8 @@
-# app
+first
 
-## Project setup
-```
-npm install
-```
+vue create my-app
+cd my-app
+vue add bootstrap-vue
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+npm install vue-material --save
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
